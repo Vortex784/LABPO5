@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trajzer\\Documents\\LAB_PO\\WebApplication3.csproj": {}
+    "C:\\Users\\w66083\\Documents\\proj\\LAB_PO\\WebApplication3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trajzer\\Documents\\LAB_PO\\WebApplication3.csproj": {
+    "C:\\Users\\w66083\\Documents\\proj\\LAB_PO\\WebApplication3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trajzer\\Documents\\LAB_PO\\WebApplication3.csproj",
+        "projectUniqueName": "C:\\Users\\w66083\\Documents\\proj\\LAB_PO\\WebApplication3.csproj",
         "projectName": "WebApplication3",
-        "projectPath": "C:\\Users\\trajzer\\Documents\\LAB_PO\\WebApplication3.csproj",
-        "packagesPath": "C:\\Users\\trajzer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trajzer\\Documents\\LAB_PO\\obj\\",
+        "projectPath": "C:\\Users\\w66083\\Documents\\proj\\LAB_PO\\WebApplication3.csproj",
+        "packagesPath": "C:\\Users\\w66083\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\w66083\\Documents\\proj\\LAB_PO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\trajzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\w66083\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
